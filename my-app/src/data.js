@@ -2,39 +2,42 @@ import React from "react";
 
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "portfolio",
+    subtitle: "React and TailwindCSS",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    image: "./logo.svg",
+    link: "",
   },
   {
-    title: "React Tracks",
+    title: "placeholder",
     subtitle: "React and Python",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reedbarger.com",
+    image: "./logo.svg",
+    link: "",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "EventSphere",
+    subtitle: "React and Azure",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://jsbootcamp.com",
+    image: "./logo.svg",
+    link: "",
   },
   {
-    title: "Epic Todo App",
+    title: " placeholder",
     subtitle: "React Hooks",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://pythonbootcamp.com",
+    image: "./logo.svg",
+    link: "",
   },
 ];
 
 export const skills = [
-    "React"
+    "React",
+    "Python",
+    "JavaScript",
+    "C/C#/C++",
 ]
